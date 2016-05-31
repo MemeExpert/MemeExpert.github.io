@@ -1,7 +1,13 @@
+
 .vidWrap{
-  width:100%;
+  position: relative;
+  padding-bottom:56.25%;
+  padding-top:0px;
+  height:0;
+  background-color:yellow;
 }
 .vidWrap iframe{
+  position: absolute;
   top: 0;
   left:0;
   width: 100%;
