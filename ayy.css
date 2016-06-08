@@ -1,4 +1,7 @@
-
+*{
+  padding:0px;
+  margin:0px;
+}
 .vidWrap{
   position: relative;
   padding-bottom:56.25%;
